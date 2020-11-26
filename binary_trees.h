@@ -55,6 +55,7 @@ binary_tree_t *binary_tree_sibling(binary_tree_t *node);
 binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 
 int aux_binary_tree_height(const binary_tree_t *tree);
+int get_power(int exp);
 
 
 #endif
